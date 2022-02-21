@@ -1,6 +1,9 @@
 # magic
 
-A new Flutter project.
+Udemy Anjela Yu Flutter Course practice : 
+https://www.udemy.com/course/flutter-bootcamp-with-dart/
+
+<img src = "https://user-images.githubusercontent.com/44460028/154958240-8171dfba-80ba-4ea9-854a-695ea428e023.png" width="30%" height="30%">
 
 ## Getting Started
 
